@@ -1,0 +1,11 @@
+Age,Salary,Experience,Target,Gender_Male,Department_IT,Department_Sales
+25.0,50000.0,1,0,True,False,False
+30.0,60000.0,3,1,False,True,False
+33.0,55000.0,2,1,False,False,True
+35.0,60000.0,4,0,True,True,False
+40.0,70000.0,5,1,False,False,False
+28.0,52000.0,2,0,False,False,True
+29.0,65000.0,6,1,True,True,False
+33.0,58000.0,4,1,False,False,False
+45.0,75000.0,7,0,True,False,True
+50.0,80000.0,8,1,False,True,False

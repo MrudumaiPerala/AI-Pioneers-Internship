@@ -1,0 +1,11 @@
+Age,Salary,Gender,Department,Experience,City,Target
+25.0,50000.0,Male,HR,1,NY,0
+30.0,60000.0,Female,IT,3,LA,1
+,55000.0,Female,Sales,2,LA,1
+35.0,,Male,IT,4,,0
+40.0,70000.0,,HR,5,SF,1
+28.0,52000.0,Female,Sales,2,NY,0
+29.0,65000.0,Male,IT,6,LA,1
+33.0,58000.0,Female,HR,4,NY,1
+45.0,75000.0,Male,Sales,7,SF,0
+50.0,80000.0,Female,IT,8,LA,1
